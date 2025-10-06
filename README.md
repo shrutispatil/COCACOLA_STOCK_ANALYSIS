@@ -102,10 +102,10 @@ Data storytelling with Power BI dashboards
 Using SQL for real-world data cleaning
 
 Dashboard Preview
-https://github.com/shrutispatil/COCACOLA_STOCK_ANALYSIS/blob/main/Dashboard%20Cocacola.png?raw=true
+
+<img width="903" height="506" alt="Dashboard Cocacola" src="https://github.com/user-attachments/assets/2e1ad271-8efc-42d7-b7e0-435597d11f17" />
 
 Author
-
 Shruti Patil
 
 Email: pshruti.connect@gmail.com
