@@ -7,15 +7,18 @@ Project Overview
 
 This project analyzes Coca-Cola stock performance. It explores stock trends, returns, volatility, trading volumes, and key performance indicators to provide insights for investors using Power BI for visualization and SQL for data cleaning & transformations.
 
-Dataset
+Dataset Source: Kaggle
 
-Source: Kaggle
+Tools & Tech:-
 
-Fields:
+Power BI: Dashboard & KPIs
 
-Date (trading day) Open, High, Low, Close, Adj Close (prices) Volume (traded shares)
+PostgreSQL: Data Cleaning
 
-Steps performed in SQL:
+GitHub: Project Hosting
+
+
+Steps performed in SQL:-
 
 Checked duplicates & null values
 
@@ -33,7 +36,7 @@ Added 7-day & 30-day Moving Averages
 
 Insights & Analysis
 
-Business questions:
+Business questions:-
 
 1.Trend Over Time
 
@@ -57,7 +60,7 @@ Does Coca-Cola stock show any seasonal patterns /stronger performance in certain
 
 Dashboard Features
 
-Built in Power BI:
+Built in Power BI:-
 
 *KPI Cards: 1.Latest Stock Price
 
@@ -67,7 +70,7 @@ Built in Power BI:
 
 *Interactive Filters: Year, Quarter
 
-*Visuals:
+*Visuals:-
 
 1.Line Chart: 7-day & 30-day Moving Averages
 
@@ -83,23 +86,14 @@ Built in Power BI:
 
 *DAX with AI
 
-Tools & Tech
+Key Insights:-
 
-Power BI: Dashboard & KPIs
+Coca-Cola stock showed strong growth in recent years, with consistent upward trends.
 
-PostgreSQL: Data Cleaning
+The biggest one-day gain was on 27Apr-2023, while the largest drop occurred on 31May-2023.
 
-GitHub: Project Hosting
+Despite short-term volatility, Coca-Cola remains a stable long-term investment.
 
-Key Learnings
-
-Hands-on with time-series stock data analysis
-
-Building financial KPIs like YTD Returns
-
-Data storytelling with Power BI dashboards
-
-Using SQL for real-world data cleaning
 
 Dashboard Preview
 
